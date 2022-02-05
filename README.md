@@ -6,7 +6,7 @@ High school student at Brazil
 
 Enthusiast of web technologies, cryptography, decentralized applications, cybersecurity, AI, computer science and applied math.
 
-Wiling to build things that can possibly change how people live through programming.
+Wanting to build things that can possibly change how people live.
 
 As my goal, I'm willing to build projects that I'm proud of and connect with many people as possible.
 
