@@ -3,6 +3,7 @@
 High school student at Brazil
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gusta0604)
+![Gmail](https://img.shields.io/badge/github.v5x7y@aleeas.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Enthusiast of web technologies, cryptography, decentralized applications, cybersecurity, AI, computer science and applied math.
 
