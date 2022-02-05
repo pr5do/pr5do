@@ -1,12 +1,13 @@
+## Gustavo Prado
 
- <div>
-  <a href="https://github.com/pr5do">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pr5do&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr5do&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+High school student at Brazil
 
-##  
-<div>
-   <a href="https://stackoverflow.com/users/16130798/estevan-cardoso?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
-</div>
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gusta0604)
+
+Enthusiast of web technologies, cryptography, decentralized applications, cybersecurity, AI, computer science and applied math.
+
+Wiling to build things that can possibly change how people live through programming.
+
+As my goal, I'm willing to build projects that I'm proud of and connect with many people as possible.
+
+Nowadays I'm very passionate about cryptocurrencies, so, currently, I'm learning C++ to create my protocol and further in the future I'm willing to learn about web technologies, cryptography and cybersecurity to create the best application that I'm can possibly create.
